@@ -9,5 +9,8 @@
   },
   "action": {
     "default_title": "Click to access Bard"
+  },
+  "background": {
+    "service_worker": "service-worker.js"
   }
 }
