@@ -1,0 +1,13 @@
+{
+  "name": "Bard - Side Panel",
+  "description": "Access Google Bard directly from your side panel.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "permissions": ["sidePanel"],
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "action": {
+    "default_title": "Click to access Bard"
+  }
+}
